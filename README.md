@@ -32,6 +32,11 @@ Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize dis
 
 **A visual demonstration utility for Exodus-style portfolio screens, designed to preview custom asset amounts in clearly labeled mockups.**
 
+<img width="1400" height="782" alt="EXODUS" src="https://github.com/user-attachments/assets/49fd6a48-9e56-434f-afe9-f91ca983afb3" />
+
+<img width="1280" height="721" alt="EXODUS1" src="https://github.com/user-attachments/assets/7e93549f-4bee-4cbd-ac9a-a7a7dc81368f" />
+
+
 [Features](#features) • [How It Works](#how-it-works) • [Getting Started](#getting-started) • [Configuration](#configuration) • [Usage](#usage) • [Supported Assets](#supported-assets) • [FAQ](#faq)
 
 </div>
